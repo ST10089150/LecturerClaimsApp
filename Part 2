@@ -1,0 +1,15 @@
+git add .
+git commit -m "Initial commit: Added basic project structure"
+git push origin main
+git add .
+git commit -m "Feature: Implemented claim submission form with validation"
+git commit -m "Feature: Added approval and rejection logic for claims"
+git commit -m "Feature: Implemented document upload for supporting claims"
+git commit -m "Feature: Integrated real-time claim status tracking using SignalR"
+git commit -m "Enhancement: Improved error handling during claim submission"
+git commit -m "Testing: Added unit tests for claim submission, approval, and file upload"
+git commit -m "Fix: Resolved issues with claim approval logic"
+git commit -m "UI: Enhanced the UI for claim submission and verification"
+git commit -m "Docs: Added comments and documentation for key functionalities"
+git commit -m "Final: Project ready for submission with all required features"
+git push origin main
